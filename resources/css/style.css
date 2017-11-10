@@ -1,0 +1,16 @@
+html {
+	background: black;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+h1 {
+	font-weight: normal;
+	color:white;
+	text-align: center;
+	font-size: 50px;
+}
+.download {
+	color:aquamarine;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: underline;
+}
